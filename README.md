@@ -1,4 +1,6 @@
 # MiX10
+
+## This is an archived copy of the [MiX10 repository at the Sable research group](https://github.com/Sable/MiX10). 
 Source code for the MiX10 compiler. 
 Mix10 compiles MATLAB programs to X10, a high performance language developed by IBM. 
 
